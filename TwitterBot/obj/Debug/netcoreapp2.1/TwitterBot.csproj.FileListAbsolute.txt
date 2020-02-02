@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\bin\Debug\netcoreapp2.1\TwitterBot.deps.json
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\bin\Debug\netcoreapp2.1\TwitterBot.runtimeconfig.json
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\bin\Debug\netcoreapp2.1\TwitterBot.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\bin\Debug\netcoreapp2.1\TwitterBot.dll
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\bin\Debug\netcoreapp2.1\TwitterBot.pdb
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\obj\Debug\netcoreapp2.1\TwitterBot.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\obj\Debug\netcoreapp2.1\TwitterBot.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\obj\Debug\netcoreapp2.1\TwitterBot.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\obj\Debug\netcoreapp2.1\TwitterBot.dll
+C:\Users\Ivan\source\repos\TwitterBot\TwitterBot\obj\Debug\netcoreapp2.1\TwitterBot.pdb
